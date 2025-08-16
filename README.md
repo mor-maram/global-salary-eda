@@ -45,6 +45,7 @@ numpy
 matplotlib
 seaborn
 plotly
+3.install csv file
 
 
 ---
